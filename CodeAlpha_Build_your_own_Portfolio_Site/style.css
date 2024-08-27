@@ -793,18 +793,7 @@ span {
         grid-template-columns: repeat(2.1fr);
     }
 
-    .testimonial-container .testimonial-wrapper {
-        padding: 50rem 0;
-    }
 
-    .testimonial-content .testimonial-slide {
-        padding: 3rem 2rem;
-    }
-
-    .testimonial-box .swiper-button-next,
-    .testimonial-box .swiper-button-prev {
-        display: none;
-    }
 }
 
 @media (max-width: 617px) {
